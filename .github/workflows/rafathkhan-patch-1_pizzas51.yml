@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build: ASP.NET core
     runs-on: windows-latest
 
     steps:
